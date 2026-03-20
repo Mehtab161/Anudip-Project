@@ -139,12 +139,6 @@ DIVIDE(
     SUM('orders'[Profit]),
     SUM('orders'[SalesAmount])
 )
-
-CLV = 
-DIVIDE(
-    SUM('orders'[SalesAmount]),
-    DISTINCTCOUNT('orders'[CustomerID])
-)
 ```
 
 ---
