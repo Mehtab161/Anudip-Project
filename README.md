@@ -4,21 +4,21 @@
 
 ## 📊 Dashboard Overview
 
-### 🟦 Supply Chain Intelligence Dashboard
+### 🟦 Supply Chain Intelligence Dashboard(Landing Page)
 
-![Landing Page](Screenshots/page1.png)
+![Landing Page](Screenshots/Page_1.png)
 
 ### 📊 Executive Overview
 
-![Executive Overview](Screenshots/page2.png)
+![Executive Overview](Screenshots/Page_2.png)
 
 ### 🚚 Operations & Logistics Dashboard
 
-![Operations Dashboard](Screenshots/page3.png)
+![Operations Dashboard](Screenshots/Page_3.png)
 
 ### 👥 Customer & Product Insights
 
-![Customer Insights](Screenshots/page4.png)
+![Customer Insights](Screenshots/Page_4.png)
 
 ---
 
@@ -63,7 +63,7 @@ The dashboard enables stakeholders to make **data-driven decisions** through int
 
 ---
 
-### 🟦 Page 1: Supply Chain Intelligence Dashboard
+### 🟦 Page 1: Supply Chain Intelligence Dashboard(Landing Page)
 
 * Clean UI design with background and branding
 * Navigation button for smooth user flow
@@ -207,7 +207,7 @@ DIVIDE(
 
 ## 🔗 Project Link
 
-👉 *(Add your Power BI Service link here)*
+👉 *(https://app.powerbi.com/links/mwwmULnb1n?ctid=691c09c3-ed03-46e8-bbc9-5278f3f7ca81&pbi_source=linkShare)*
 
 ---
 
@@ -234,7 +234,7 @@ DIVIDE(
 ### 🔹 Step 1: Download Project
 
 ```bash id="f4n7jz"
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mehtab161/Anudip-Project.git
 ```
 
 OR download ZIP from GitHub
